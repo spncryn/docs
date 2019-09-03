@@ -3,4 +3,4 @@ A public repository containing presskits for my various projects where applicabl
 
 You can find a list of available presskits below:
 
-* My Work Is Not Yet Done
+* [My Work Is Not Yet Done](https://github.com/spncryn/presskits/blob/master/docs/work.md)
