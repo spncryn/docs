@@ -15,7 +15,7 @@
 
 ## Description
 
-*My Work Is Not Yet Done* is a pilgrimage simulator following the final days of the inquisitor Avery, the last remaining survivor of the Empire’s doomed excursionary efforts into the remote and unaccountable Reach. Tasked with tracking down the source of an inscrutable signal, she must navigate, survey and survive an eerie, ever-shifting landscape reclaimed by nature — and perhaps something stranger.
+*My Work Is Not Yet Done* is a pilgrimage simulator following the final days of the inquisitor Avery, the last remaining survivor of the Empire’s doomed excursionary efforts into the remote and unaccountable Reach. Tasked with tracking down the source of an inscrutable signal, she must navigate, survey and survive an eerie, ever-shifting landscape reclaimed by nature — and something stranger.
 
 *My Work Is Not Yet Done* seeks to provide a unique and innovative take on the survival genre aimed at accurately reproducing the physical and psychological experience of being alone and lost in the wilderness, and resituating the player’s role within nature as an interloper rather than conquistador. The game is set in an expansive open world environment that eschews the genre tropes of cold weather survival for a dense, oppressively rainy and humid forest, seamlessly blending procedural generation with handcrafted locations to ensure a sense of constant disorientation even across repeat playthroughs. It is part of an ongoing series of works within a larger shared universe dedicated to examining questions of theological and cosmic horror: issues such as faith, weakness, devotion and loneliness — and the concomitant suffering contingent to such narratives.
 
@@ -47,8 +47,6 @@ Other major points of influence in depicting the Reach include personal experien
 *The Blair Witch Project* (1999), *Blair Witch* (2016) and *The Banshee Chapter* (2013) were equally useful points of references for atmosphere and tone.
 
 In regards to the mechanical design and implementation of the survival mechanics, I drew inspiration from Croteam’s *SCUM* (2019) and Hinterland’s *The Long Dark* (2017). The former is the only title that comes close in terms of the technical complexity of its survival systems (at least in regards to biomechanics and physiology), and provided a good feel for what kinds of complexity work well (and alternately, don’t). The latter’s pensive pace and tone gave me a good idea of how to design survival mechanics in a more positive and environmentally conscious (not to mention realistic) manner, where the player exists in tandem with and through the land rather than in control of it.
-
-The title is an allusion to both the suicide note of the entrepreneur and inventor George Eastman, who shot himself in the heart after leaving a note reading, "To my friends, my work is done – Why wait?"; and to the identically-named work by Thomas Ligotti. Eastman's note is directly mirrored in-game through Rebekah's note to Avery found at the gorge, and Ligotti's themes of "corporate horror" provide an interesting and relevant subtext to the larger universe of lore running through my works. 
 
 ## Videos
 
