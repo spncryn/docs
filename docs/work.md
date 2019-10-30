@@ -21,7 +21,7 @@
 
 ## Features
 
-* Combat-less surveyance and survival gameplay, based on authentic bushcraft and land navigation techniques
+* Combat-less epxloration and survival gameplay, based on authentic bushcraft and land navigation techniques
 * Deep, systemically-reactive survival simulation mechanics, emphasising both physical and psychological conditions
 * A beautiful and expansive open world featuring real-time weather, atmospheric conditions, and day/night progression
 * Dynamic environments that react to the player’s condition and behaviour
