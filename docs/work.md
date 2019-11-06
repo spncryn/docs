@@ -9,9 +9,9 @@
 * **Platform(s):** Windows
 * **Genre(s):** Survival, exploration, horror, simulation
 * **Engine:** GameMaker Studio 2
-* **Documentation:** TBA
-* **Links:** itch.io (TBA)
-* **Price:** Pay what you can 
+* **Source Code:** Will be made public shortly after release
+* **Links:** itch.io (TBA), Steam (TBA)
+* **Price:** $20 USD (Steam), Pay what you can (itch.io)
 
 ## Description
 
