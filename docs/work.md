@@ -64,7 +64,7 @@ In regards to the mechanical design and implementation of the survival mechanics
 
 **Development log:** [spncryn.tumblr.com](https://spncryn.tumblr.com)
 
-## Methodology
+## Technology
 
 *My Work Is Not Yet Done* is produced in GameMaker Studio 2. Its development is being documented using the [MDMA](https://www.gamesasresearch.com/mdma) framework by Pippin Barr, Rilla Khaled and Jonathan Lessard. 
 
