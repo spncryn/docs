@@ -2,6 +2,8 @@
 
 # *But For Now We Are Young*
 
+**CURRENT STATUS: Suspended** 
+
 ## Overview
 
 * **Developer(s):** Sutemi Productions
