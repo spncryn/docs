@@ -65,7 +65,7 @@ I'll speak more about the influences, homages and allusions behind each individu
 
 ## Videos
 
-[![menu]({https://i.imgur.com/408F4Mc.png})]({https://streamable.com/k6dur} "Menu")
+[![Menu](https://i.imgur.com/408F4Mc.png)](https://streamable.com/k6dur)
 
 ## Images
 
@@ -110,5 +110,5 @@ Sutemi Productions is an independent digital collective based in the New York me
 
 -- 
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 06 November 2019.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 09 November 2019.*
 
