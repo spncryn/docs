@@ -6,6 +6,6 @@ You can find a list of available releases below:
 * [My Work Is Not Yet Done](https://github.com/spncryn/work/blob/master/README.md)
 * [But For Now We Are Young](https://github.com/spncryn/presskits/blob/master/docs/young.md)
 
--- 
+---
 
 *Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 09 November 2019.*
