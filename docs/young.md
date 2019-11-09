@@ -108,7 +108,7 @@ Sutemi Productions is an independent digital collective based in the New York me
 * **Inquiries:** [spenceryan123@gmail.com](mailto:spenceryan123@gmail.com)
 * **Twitter:** [@spncryn](https://twitter.com/spncryn)
 
--- 
+---
 
 *Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 09 November 2019.*
 
