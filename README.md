@@ -3,8 +3,9 @@ A repository containing all public-facing documents for my projects where applic
 
 You can find a list of available releases below:
 
-* [My Work Is Not Yet Done](https://github.com/spncryn/work/blob/master/README.md)
+* [My Work Is Not Yet Done](https://github.com/spncryn/work/)
 * [But For Now We Are Young](https://github.com/spncryn/presskits/blob/master/docs/young.md)
+* ["First Love / Late Spring"](https://github.com/spncryn/spring/)
 
 ---
 
