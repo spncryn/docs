@@ -1,0 +1,18 @@
+# writing
+A list of pieces of writing which I believe to best represent the evolving (or maybe not so much) nature of my interests as a writer. This list includes both writing from school and for publications, as well as personal pieces; I don't feel it's necessary to disambiguate the difference publicly, although the nature of each work should be pretty apparent regardless. Please note that this is not a complete list of all the publicly-available work that I've done: just the stuff that I personally think represents me best.
+
+You can find a list of available works below:
+
+| TITLE                      | DATE OF COMPOSITION | SUMMARY |
+|----------------------------|-------------|--------------------|
+| [An Assassin's Creed: An examination of violence as ideology across Ubisoft’s major franchises](https://medium.com/@spncryn/an-assassins-creed-1079002c9512) | 12 May 2020 | Well, exactly what it says: an examination of cylical and historical violence as a recurring ideology across several of Ubisoft's major franchises, including *Assassin's Creed*, *Tom Clancy's Rainbow Six Siege*, *Watch Dogs*, and *Tom Clancy's Splinter Cell*. Maybe one day I'll give *Ghost Recon* and *Far Cry* their time in the sun too...
+| [The Maiden Inviolate: Apophasis and virginity in Ælfric's *Life of St. Eugenia*](https://proteusjournal.files.wordpress.com/2019/04/proteus-2.pdf) | 24 April 2019 | A negotiation of sexual and transcendent identity via apophasis in abstinent/ascetic identities. Examines the relationship between the soul and holiness, as understood through the sanctity (and enduring inviolability) of the virginal body. |
+| [In My Father’s House: A reading of God in Francis Bacon’s *The New Atlantis*](https://medium.com/@spncryn/in-my-fathers-house-de8212511e92) | 27 May 2018 | Examines the mimetic reproduction of nature in Francis Bacon’s seminal utopian work *The New Atlantis*, focusing on the displacement and obsolescence of God via technological hubris, and the datafication of nature.|
+| [The Wor(l)d made flesh: Alienation and aporia in John Donne’s Holy Sonnets](https://medium.com/@spncryn/the-wor-l-d-made-flesh-alienation-and-aporia-in-john-donnes-holy-sonnets-d959975626d9) | 8 April 2018 | Examines the role of the flesh as the proving grounds for spiritual struggle in John Donne's Holy Sonnets, and mystical mutilation as metaphor for alienation between God and man. |
+| [Something That is Loved: The ghosts of Toni Morrison’s *Beloved*](https://medium.com/spncryn/something-that-is-loved-b170d20a0b3f) | 27 December 2017 | Examines the role of ghosts and history in Toni Morrison's *Beloved* through a psychoanalytical approach, focusing on traumatic resonance in both individual and cultural memory. |
+| [Of Waves and Radiation: The myth of the eternal death in Don DeLillo’s *White Noise*](https://medium.com/spncryn/of-waves-and-radiation-b5992cd6b247) | 16 December 2017 | A formalist reading of death in Don DeLillo's *White Noise* as a uniquely modern, undifferentiated state of qualia indistinguishable from life, rendered through simulative interfaces such as television. |
+| [*Mirror's Edge*, and the Politics of Parkour](https://killscreen.com/articles/mirrors-edge-politics-parkour/) | 3 June 2016 | Examines parkour as a tool of liberation and resistance within the Modernist tradition through *Mirror's Edge* (2008). |
+
+---
+
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 01 July 2020.*
