@@ -3,7 +3,7 @@ A list of pieces which I believe best represent the evolving (or maybe not so mu
 
 You can find a list of available works below:
 
-| TITLE                      | DATE OF COMPOSITION | SUMMARY |
+| TITLE                      | DATE † | SUMMARY |
 |----------------------------|-------------|--------------------|
 | [An Assassin's Creed: An examination of violence as ideology across Ubisoft’s major franchises](https://medium.com/@spncryn/an-assassins-creed-1079002c9512) | 12 May 2020 | Well, exactly what it says: an examination of cylical and historical violence as a recurring ideology across several of Ubisoft's major franchises, including *Assassin's Creed*, *Tom Clancy's Rainbow Six Siege*, *Watch Dogs*, and *Tom Clancy's Splinter Cell*. Maybe one day I'll give *Ghost Recon* and *Far Cry* their time in the sun too...
 | [The Maiden Inviolate: Apophasis and virginity in Ælfric's *Life of St. Eugenia*](https://proteusjournal.files.wordpress.com/2019/04/proteus-2.pdf) | 24 April 2019 | A negotiation of sexual and transcendent identity via apophasis in abstinent/ascetic identities. Examines the relationship between the soul and holiness, as understood through the sanctity (and enduring inviolability) of the virginal body. |
@@ -13,6 +13,8 @@ You can find a list of available works below:
 | [Something That is Loved: The ghosts of Toni Morrison’s *Beloved*](https://medium.com/spncryn/something-that-is-loved-b170d20a0b3f) | 27 December 2017 | Examines the role of ghosts and history in Toni Morrison's *Beloved* through a psychoanalytical approach, focusing on traumatic resonance in both individual and cultural memory. |
 | [Of Waves and Radiation: The myth of the eternal death in Don DeLillo’s *White Noise*](https://medium.com/spncryn/of-waves-and-radiation-b5992cd6b247) | 16 December 2017 | A formalist reading of death in Don DeLillo's *White Noise* as a uniquely modern, undifferentiated state of qualia indistinguishable from life, rendered through simulative interfaces such as television. |
 | [*Mirror's Edge*, and the Politics of Parkour](https://killscreen.com/articles/mirrors-edge-politics-parkour/) | 3 June 2016 | Examines parkour as a tool of liberation and resistance within the Modernist tradition through *Mirror's Edge* (2008). |
+
+† *This refers as best as possible to the initial date of publication, although in certain cases, the dates may be approximate estimates (ie, papers written for classes or stuff from my backlog that've been republished at some point).
 
 ---
 
