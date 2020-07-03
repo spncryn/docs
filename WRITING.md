@@ -14,7 +14,7 @@ You can find a list of available works below:
 | [Of Waves and Radiation: The myth of the eternal death in Don DeLillo’s *White Noise*](https://medium.com/spncryn/of-waves-and-radiation-b5992cd6b247) | 16 December 2017 | A formalist reading of death in Don DeLillo's *White Noise* as a uniquely modern, undifferentiated state of qualia indistinguishable from life, rendered through simulative interfaces such as television. |
 | [*Mirror's Edge*, and the Politics of Parkour](https://killscreen.com/articles/mirrors-edge-politics-parkour/) | 3 June 2016 | Examines parkour as a tool of liberation and resistance within the Modernist tradition through *Mirror's Edge* (2008). |
 
-† *This refers as best as possible to the initial date of publication, although in certain cases, the dates may be approximate estimates (ie, papers written for classes or stuff from my backlog that've been republished at some point).
+† *This refers as best as possible to the initial date of publication, although in certain cases, the dates may be approximate estimates (ie, papers written for classes or stuff from my backlog that've been republished at some point).*
 
 ---
 
