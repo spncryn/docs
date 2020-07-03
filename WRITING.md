@@ -1,5 +1,5 @@
 # writing
-A list of writing which I believe to best represent the evolving (or maybe not so much) nature of my interests as a writer. This list includes both writing from school and for publications, as well as personal pieces; I don't feel it's necessary to disambiguate the difference publicly, although the nature of each work should be pretty apparent regardless. Please note that this is not a complete list of all the publicly-available work that I've done: just the stuff that I personally think represents me best.
+A list of pieces which I believe best represent the evolving (or maybe not so much) nature of my interests as a writer. This list includes both writing from school and for publications, as well as personal pieces; I don't feel it's necessary to disambiguate the difference publicly, although the nature of each work should be pretty apparent regardless. Please note that this is not a complete list of all the publicly-available work that I've done: just the stuff that I personally think represents me best.
 
 You can find a list of available works below:
 
