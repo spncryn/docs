@@ -5,7 +5,8 @@ You can find a list of available works below:
 
 | TITLE                      | DATE † | SUMMARY |
 |----------------------------|-------------|--------------------|
-| [An Assassin's Creed: An examination of violence as ideology across Ubisoft’s major franchises](https://medium.com/@spncryn/an-assassins-creed-1079002c9512) | 12 May 2020 | Well, exactly what it says: an examination of cylical and historical violence as a recurring ideology across several of Ubisoft's major franchises, including *Assassin's Creed*, *Tom Clancy's Rainbow Six Siege*, *Watch Dogs*, and *Tom Clancy's Splinter Cell*. Maybe one day I'll give *Ghost Recon* and *Far Cry* their time in the sun too...
+| [The Way of Nature: On *Ghost of Tsushima*, and the manufactured sublime](https://medium.com/@spncryn/the-way-of-nature-56509be6dd01) | 23 July 2020 | Examines the role of the natural landscape and sublime as cinematic subject in Sucker Punch's *Ghost of Tsushima*, and the cynicism of the game's focus on an aesthetics of consumption rather than contemplation.
+| [An Assassin's Creed: An examination of violence as ideology across Ubisoft’s major franchises](https://medium.com/@spncryn/an-assassins-creed-1079002c9512) | 12 May 2020 | An examination of cylical and historical violence as a recurring ideology across several of Ubisoft's major franchises, including *Assassin's Creed*, *Tom Clancy's Rainbow Six Siege*, *Watch Dogs*, and *Tom Clancy's Splinter Cell*. 
 | [The Maiden Inviolate: Apophasis and virginity in Ælfric's *Life of St. Eugenia*](https://proteusjournal.files.wordpress.com/2019/04/proteus-2.pdf) | 24 April 2019 | A negotiation of sexual and transcendent identity via apophasis in abstinent/ascetic identities. Examines the relationship between the soul and holiness, as understood through the sanctity (and enduring inviolability) of the virginal body. |
 | [Only You: Authenticity and interiority in the branded age](https://docs.google.com/document/d/1phMLoRznXqX_w5LpiQqlPJKmt5sPf1KwWk5nERU9chA/edit?usp=sharing) | 31 May 2018 | A longform attempt at reckoning with the ambivalent nature of brands as a mediating force in modern negotiations of personal identity, and what it means to have an "authentic" experience in an age of manufactured sincerity. |
 | [In My Father’s House: A reading of God in Francis Bacon’s *The New Atlantis*](https://medium.com/@spncryn/in-my-fathers-house-de8212511e92) | 27 May 2018 | Examines the mimetic reproduction of nature in Francis Bacon’s seminal utopian work *The New Atlantis*, focusing on the displacement and obsolescence of God via technological hubris, and the datafication of nature.|
@@ -18,4 +19,4 @@ You can find a list of available works below:
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 03 July 2020.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 23 July 2020.*
