@@ -6,9 +6,9 @@ You can find a list of available releases below:
 
 | TITLE                      | STATUS      | DATE † |
 |----------------------------|-------------|--------------------|
-| [My Work Is Not Yet Done](https://github.com/spncryn/work/) | In progress | N/A |
-| [But For Now We Are Young](https://github.com/spncryn/presskits/blob/master/docs/young.md) | Ongoing | N/A |
-| ["First Love / Late Spring"](https://github.com/spncryn/spring/) | Released | 20 April 2020 |
+| [My Work Is Not Yet Done](https://github.com/spncryn/docs/blob/master/presskits/work.md) | In progress | N/A |
+| [But For Now We Are Young](https://github.com/spncryn/docs/blob/master/presskits/young.md) | Ongoing | N/A |
+| ["First Love / Late Spring"](https://github.com/spncryn/docs/blob/master/presskits/spring.md) | Released | 20 April 2020 |
 
 † *This column refers only to the last recorded date of meaningful interaction with the project (work, development, etc), and does not necessarily indicate the successful completion of the project itself. Projects with listed dates can have been released, suspended, or terminated. See the "Status" column for more details.*
 
@@ -24,3 +24,4 @@ You can find a list of available releases below:
 
 *Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 03 July 2020.*
 
+ 
