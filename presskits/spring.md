@@ -11,7 +11,7 @@
 * **Platform(s):** Windows
 * **Genre(s):** Visual novel
 * **Engine:** GameMaker Studio 2
-* **Source Code:** Available
+* **Source Code:** [View on GitHub](https://github.com/spncryn/spring)
 * **Links:** [itch.io](https://spncryn.itch.io/spring), [Ludum Dare](https://ldjam.com/events/ludum-dare/46/first-love-late-spring)
 * **Price:** Pay what you want (itch.io)
 
