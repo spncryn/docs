@@ -101,7 +101,7 @@ Due to the extremely personal nature of *But For Now We Are Young*, I'm going to
 
 ## About
 
-Sutemi Productions is an independent digital collective based in the New York metropolitan area. It derives its name from *sutemi waza*, a term in various Japanese martial arts that can be roughly translated as “arts of abandonment”: a series of techniques requiring the user to “abandon”, or sacrifice some part of their stance in order to create or exploit an opening in the opponent. The fundamental philosophy underlying all of the works produced under Sutemi Productions is that only through directly confronting, without insincerity or resentment, our deepest flaws and vulnerabilities can we begin to produce works that are honest to the best versions of what they – and we – can be.
+Sutemi Productions is an American video game developer based in the New York metropolitan area. It derives its name from *sutemi waza*, a term in various Japanese martial arts that can be roughly translated as “arts of abandonment”: a series of techniques requiring the user to “abandon”, or sacrifice some part of their stance in order to create or exploit an opening in the opponent. The fundamental philosophy underlying all of the works produced under Sutemi Productions is that only through directly confronting, without insincerity or resentment, our deepest flaws and vulnerabilities can we begin to produce works that are honest to the best versions of what they – and we – can be.
 
 ## Contact
 
