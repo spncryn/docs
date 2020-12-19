@@ -43,7 +43,7 @@ It is part of an ongoing series of works within a larger shared universe dedicat
 
 * [Postmortem for Kickstarter campaign](https://www.kickstarter.com/projects/spncryn/my-work-is-not-yet-done/posts/2737778). *Kickstarter*.
 * [Case study of "APOSTASIS" trailer](https://www.kickstarter.com/projects/spncryn/my-work-is-not-yet-done/posts/2725083). *Kickstarter*.
-* [How a would-be priest explores the horror of God in videogames](https://www.rockpapershotgun.com/2020/03/20/how-a-would-be-priest-explores-the-horror-of-god-in-videogames). *Rock Paper Shotgun*.
+* ["How a would-be priest explores the horror of God in videogames"](https://www.rockpapershotgun.com/2020/03/20/how-a-would-be-priest-explores-the-horror-of-god-in-videogames). *Rock Paper Shotgun*.
 * Full transcript for Rock Paper Shotgun interview. *[Medium](https://link.medium.com/rQQaxlKjj5)* or *[Google Docs](https://docs.google.com/document/d/1G53IPAKgMzM2ZA8-K6hxRX2dk73WVJMpnBlCWG1lIx4)*.
 
 ## Technology
