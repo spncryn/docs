@@ -32,10 +32,17 @@ It is part of an ongoing series of works within a larger shared universe dedicat
 * Dynamic environments that react to the player’s condition and behaviour
 * A free-form unscripted narrative experience built around emergent gameplay and ambient lore
 
+## Media
+
+*All listed media can be assumed to be up-to-date as of the last recorded edit on this document.*
+
+* **TRAILER:** "Apostasis". *Youtube*.
+* Static images and assets available via [Google Drive](https://drive.google.com/file/d/19tqraU1GQnpkyOj0m6qHv9VgzkMPS-hh/view?usp=sharing).
+
 ## Additional Links
 
-* [Postmortem for Kickstarter campaign](https://www.kickstarter.com/projects/spncryn/my-work-is-not-yet-done/posts/2737778). *Kickstarter.*
-* [Case study of "APOSTASIS" trailer](https://www.kickstarter.com/projects/spncryn/my-work-is-not-yet-done/posts/2725083). *Kickstarter.*
+* [Postmortem for Kickstarter campaign](https://www.kickstarter.com/projects/spncryn/my-work-is-not-yet-done/posts/2737778). *Kickstarter*.
+* [Case study of "APOSTASIS" trailer](https://www.kickstarter.com/projects/spncryn/my-work-is-not-yet-done/posts/2725083). *Kickstarter*.
 * [How a would-be priest explores the horror of God in videogames](https://www.rockpapershotgun.com/2020/03/20/how-a-would-be-priest-explores-the-horror-of-god-in-videogames). *Rock Paper Shotgun*.
 * Full transcript for Rock Paper Shotgun interview. *[Medium](https://link.medium.com/rQQaxlKjj5)* or *[Google Docs](https://docs.google.com/document/d/1G53IPAKgMzM2ZA8-K6hxRX2dk73WVJMpnBlCWG1lIx4)*.
 
@@ -59,5 +66,5 @@ Sutemi Productions is an American video game developer based in the New York met
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 17 December 2020.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 19 December 2020.*
 
