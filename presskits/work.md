@@ -37,7 +37,7 @@ It is part of an ongoing series of works within a larger shared universe dedicat
 *All listed media can be assumed to be up-to-date as of the last recorded edit on this document.*
 
 * **TRAILER:** ["APOSTASIS"](https://www.youtube.com/watch?v=KmwlUFxTwc0). *Youtube*.
-* Static images and assets available via [Google Drive](https://drive.google.com/file/d/19tqraU1GQnpkyOj0m6qHv9VgzkMPS-hh/view?usp=sharing).
+* Static images and assets available via [Google Drive](https://drive.google.com/file/d/11gBG7qqfdWzVrzwEqt1LeCebKhWv2k39/view?usp=sharing).
 
 ## Additional Links
 
