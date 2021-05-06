@@ -5,6 +5,7 @@ You can find a list of available works below:
 
 | TITLE                      | DATE † | SUMMARY |
 |----------------------------|-------------|--------------------|
+| [The Long, Long Dark: On suicide, survival games, and going on and on and on and on](https://spncryn.medium.com/the-long-long-dark-c9999179ceb6) | 04 May 2021 | An essay about suicide, masquerading as an essay about Hinterland Studio's _The Long Dark_, masquerading as an essay about survival games. |
 | [The Way of Nature: On *Ghost of Tsushima*, and the manufactured sublime](https://medium.com/@spncryn/the-way-of-nature-56509be6dd01) | 23 July 2020 | Examines the role of the natural landscape and sublime as cinematic subject in Sucker Punch's *Ghost of Tsushima*, and the cynicism of the game's focus on an aesthetics of consumption rather than contemplation. |
 | [An Assassin's Creed: An examination of violence as ideology across Ubisoft’s major franchises](https://medium.com/@spncryn/an-assassins-creed-1079002c9512) | 12 May 2020 | An examination of cylical and historical violence as a recurring ideology across several of Ubisoft's major franchises, including *Assassin's Creed*, *Tom Clancy's Rainbow Six Siege*, *Watch Dogs*, and *Tom Clancy's Splinter Cell*.  |
 | [The Maiden Inviolate: Apophasis and virginity in Ælfric's *Life of St. Eugenia*](https://proteusjournal.files.wordpress.com/2019/04/proteus-2.pdf) | 24 April 2019 | A negotiation of sexual and transcendent identity via apophasis in the abstinent/ascetic figues of Ælfric's *Life of St. Eugenia*. Examines the relationship between the soul and holiness, as understood through the sanctity (and enduring inviolability) of the virginal body. |
@@ -19,4 +20,4 @@ You can find a list of available works below:
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 23 July 2020.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 06 May 2021.*
