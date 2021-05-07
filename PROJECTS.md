@@ -16,12 +16,12 @@ You can find a list of available releases below:
 
 * *Released*: The project has been finished and released publicly as intended.
 * *In progress*: The project is currently in active development with a definite public release intended.
-* *Ongoing*: The project is not not currently in active development but is being worked on intermittently, with eventual hopes of a public release.
+* *Ongoing*: The project is not currently in active development but is being worked on intermittently, with eventual hopes of a public release.
 * *Suspended*: All development on the project has finitely ceased with no foreseeable plans for the future, but may be eventually resumed at some point.
 * *Terminated*: All development on the project has permanently and definitively ceased, with no plans of future work or release.
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 03 July 2020.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 07 May 2021.*
 
  
