@@ -1,6 +1,6 @@
 # writing
 
-| TITLE                      | DATE † | SUMMARY |
+| TITLE                      | DATE | SUMMARY |
 |----------------------------|-------------|--------------------|
 | [The Long, Long Dark: On suicide, survival games, and going on and on and on and on](https://spncryn.medium.com/the-long-long-dark-c9999179ceb6) | 04 May 2021 | An essay about suicide, masquerading as an essay about Hinterland Studio's _The Long Dark_, masquerading as an essay about survival games. |
 | [The Way of Nature: On *Ghost of Tsushima*, and the manufactured sublime](https://medium.com/@spncryn/the-way-of-nature-56509be6dd01) | 23 July 2020 | Examines the role of the natural landscape and sublime as cinematic subject in Sucker Punch's *Ghost of Tsushima*, and the cynicism of the game's focus on an aesthetics of consumption rather than contemplation. |
