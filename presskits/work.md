@@ -18,9 +18,10 @@
 
 ## Description
 
-*My Work Is Not Yet Done* is a pilgrimage simulator following the final days of the inquisitor Avery, the last remaining survivor of the Empire’s doomed excursionary efforts into the remote and unaccountable Reach. Tasked with tracking down the source of an inscrutable signal, she must navigate, survey and survive an eerie, ever-shifting landscape reclaimed by nature — and perhaps something stranger.
+_My Work Is Not Yet Done_ is a narrative-driven investigative horror game, combining elements of the survival/simulation genres with a dense, nonlinear plot exploring the
+imbrication and dissolution of human identities/meanings within uncanny wilderness.
 
-*My Work Is Not Yet Done* seeks to provide a unique and innovative take on the survival genre aimed at accurately reproducing the physical and psychological experience of being alone in the wilderness, resituating the player’s role within nature as an interloper rather than conquistador. The game is set in an expansive open world environment that eschews the genre tropes of cold weather survival for a dense, oppressively rainy and humid forest, seamlessly blending procedural generation with a variety of handcrafted locations to ensure a sense of constant disorientation even across repeat playthroughs. 
+_Work_ follows the final days of the inquisitor Avery, the last remaining survivor of a doomed excursionary mission into a remote and unaccountable stretch of old country. Tasked with tracking down the source of an inscrutable signal, she must navigate, survey and survive an eerie, ever-shifting landscape reclaimed by nature — and perhaps something stranger.
 
 It is part of an ongoing series of works within a larger shared universe dedicated to examining questions of theological and cosmic horror: issues such as faith, weakness, devotion and loneliness — and the concomitant suffering contingent to such experiences.
 
@@ -36,7 +37,8 @@ It is part of an ongoing series of works within a larger shared universe dedicat
 
 *All listed media can be assumed to be up-to-date as of the last recorded edit on this document.*
 
-* **TRAILER:** ["APOSTASIS"](https://www.youtube.com/watch?v=KmwlUFxTwc0). *Youtube*.
+* **TRAILER:** ["APOSTASIS"](https://www.youtube.com/watch?v=KmwlUFxTwc0). *YouTube*.
+* ["Locations"](https://www.youtube.com/watch?v=8kaqgBTiRSU). _YouTube_.
 * Static images and assets available via [Google Drive](https://drive.google.com/drive/folders/188LiT7CEaLm4HelTEBM7MwxXn35tj_lD?usp=sharing).
 
 ## Additional Links
@@ -45,6 +47,9 @@ It is part of an ongoing series of works within a larger shared universe dedicat
 * [Case study of "APOSTASIS" trailer](https://www.kickstarter.com/projects/spncryn/my-work-is-not-yet-done/posts/2725083). *Kickstarter*.
 * ["How a would-be priest explores the horror of God in videogames"](https://www.rockpapershotgun.com/2020/03/20/how-a-would-be-priest-explores-the-horror-of-god-in-videogames). *Rock Paper Shotgun*.
 * Full transcript for Rock Paper Shotgun interview. *[Medium](https://link.medium.com/rQQaxlKjj5)* or *[Google Docs](https://docs.google.com/document/d/1G53IPAKgMzM2ZA8-K6hxRX2dk73WVJMpnBlCWG1lIx4)*.
+* ["How game designers handle the burden of encumbrance
+"](https://www.gamedeveloper.com/design/how-game-designers-handle-the-burden-of-encumbrance). _Game Developer_.
+* [Games Are Reimagining Nature in the Age of Climate Catastrophe](https://www.fanbyte.com/features/games-are-reimagining-nature-in-the-age-of-climate-catastrophe/). _Fanbyte_.
 
 ## Technology
 
@@ -52,8 +57,8 @@ It is part of an ongoing series of works within a larger shared universe dedicat
 
 ## Licence
 
-*My Work Is Not Yet Done* is an open-source project licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0)
-](https://creativecommons.org/licenses/by/4.0/). The full source code will be made available to the public upon release as a GitHub repository. Please read the link above detailing the terms & conditions of the licence. 
+*My Work Is Not Yet Done* is currently planned to be released under a [Creative Commons Attribution 4.0 International (CC BY 4.0)
+](https://creativecommons.org/licenses/by/4.0/) licensed. 
 
 ## About
 
@@ -66,5 +71,5 @@ Sutemi Productions is an American video game developer based in the New York met
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 12 February 2021.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 20 September 2021.*
 
