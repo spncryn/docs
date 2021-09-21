@@ -1,12 +1,13 @@
-# projects
+# games
 
-| TITLE                      | STATUS      | DATE † |
+| TITLE                      | STATUS      | DATE |
 |----------------------------|-------------|--------------------|
 | [My Work Is Not Yet Done](https://github.com/spncryn/docs/blob/master/presskits/work.md) | In progress | N/A |
-| [But For Now We Are Young](https://github.com/spncryn/docs/blob/master/presskits/young.md) | Ongoing | N/A |
+| [But For Now We Are Young](https://github.com/spncryn/docs/blob/master/presskits/young.md) | Suspended | N/A |
 | ["First Love / Late Spring"](https://github.com/spncryn/docs/blob/master/presskits/spring.md) | Released | 20 April 2020 |
-
-† *This column refers only to the last recorded date of meaningful interaction with the project (work, development, etc), and does not necessarily indicate the successful completion of the project itself. Projects with listed dates can have been released, suspended, or terminated. See the "Status" column for more details.*
+| The Exegesis of John the Martyr | Suspended | N/A |
+| The Document of Midnight Animal | Terminated | N/A |
+| Midnight Animal: A Story of Love and Forgetting | Terminated | N/A |
 
 ## An overview of project status definitions
 
