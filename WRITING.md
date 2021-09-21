@@ -1,7 +1,4 @@
 # writing
-A list of pieces which I believe best represent the evolving (or maybe not so much) nature of my interests as a writer. This list includes both writing from school and for publications, as well as personal pieces; I don't feel it's necessary to disambiguate the difference publicly, although the nature of each work should be pretty apparent regardless. Please note that this is not a complete list of all the publicly-available work that I've done: just the stuff that I personally think represents me best.
-
-You can find a list of available works below:
 
 | TITLE                      | DATE † | SUMMARY |
 |----------------------------|-------------|--------------------|
@@ -16,8 +13,6 @@ You can find a list of available works below:
 | [Of Waves and Radiation: The myth of the eternal death in Don DeLillo’s *White Noise*](https://medium.com/spncryn/of-waves-and-radiation-b5992cd6b247) | 16 December 2017 | A formalist reading of death in Don DeLillo's *White Noise* as a uniquely modern, undifferentiated state of qualia indistinguishable from life, rendered through simulative interfaces such as television. |
 | [*Mirror's Edge*, and the Politics of Parkour](https://killscreen.com/articles/mirrors-edge-politics-parkour/) | 3 June 2016 | Examines parkour as a tool of liberation and resistance within the Modernist tradition through *Mirror's Edge* (2008). |
 
-† *This refers as best as possible to the initial date of publication, although in certain cases, the dates may be approximate estimates (ie, papers written for classes or stuff from my backlog that've been republished at some point).*
-
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 06 May 2021.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 20 September 2021.*
