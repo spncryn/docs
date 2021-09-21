@@ -1,9 +1,5 @@
 # projects
 
-Projects listed include active projects, suspended projects (ie, ones that are still in development but are no longer currently in active production for whatever reason) and terminated projects. These are identical to the ones in the source repositories for each respective project where available; the only difference is the public availability during the course of development. 
-
-You can find a list of available releases below:
-
 | TITLE                      | STATUS      | DATE † |
 |----------------------------|-------------|--------------------|
 | [My Work Is Not Yet Done](https://github.com/spncryn/docs/blob/master/presskits/work.md) | In progress | N/A |
@@ -22,6 +18,6 @@ You can find a list of available releases below:
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 07 May 2021.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 20 September 2021.*
 
  
