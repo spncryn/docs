@@ -75,8 +75,6 @@ I'll speak more about the influences, homages and allusions behind each individu
 
 ![station](https://66.media.tumblr.com/8c1a597aed8d14c9ab1da0bac111353c/tumblr_psaf0djGWV1y013p9o4_1280.png)
 
-![school](https://66.media.tumblr.com/3643a6ffda7b59c4aef0ed0bd57f46aa/tumblr_ppz4veciOJ1y013p9o1_1280.png)
-
 ![diner](https://66.media.tumblr.com/d3ac9a8cb143a567073a8bae4bd9d082/tumblr_pu9lxgzrWY1y013p9o1_1280.png)
 
 ![room](https://66.media.tumblr.com/3cc99366ba67c6bfd22bccaced7729ec/tumblr_putwagkMw41y013p9o1_1280.png)
@@ -89,7 +87,7 @@ I'll speak more about the influences, homages and allusions behind each individu
 
 ## Additional Links
 
-**Development log:** [spncryn.tumblr.com](https://spncryn.tumblr.com)
+N/A.
 
 ## Technology
 
@@ -97,7 +95,7 @@ I'll speak more about the influences, homages and allusions behind each individu
 
 ## Licence
 
-Due to the extremely personal nature of *But For Now We Are Young*, I'm going to hesitate on opening up the source code as per my usual projects. I'll update this in the future when/if I come to a more certain conclusion.
+All rights reserved.
 
 ## About
 
@@ -110,5 +108,5 @@ Sutemi Productions is an American video game developer based in the New York met
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 17 December 2020.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 1 October 2021.*
 
