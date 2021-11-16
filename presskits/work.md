@@ -1,4 +1,4 @@
-![cover](https://pbs.twimg.com/media/ESJzemhUcAAirmW.png)
+![cover](img/wrk.webp)
 
 # *My Work Is Not Yet Done*
 
