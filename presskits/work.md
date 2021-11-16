@@ -143,5 +143,5 @@ Sutemi Productions is an American video game developer based in the New York met
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 20 September 2021.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 16 November 2021.*
 
