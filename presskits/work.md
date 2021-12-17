@@ -103,7 +103,7 @@ This is, of course, a rather limited selection from the list of questions I’ve
 
 From the beginning of development, I have been keeping detailed logs of virtually all my development-related activity, which cover everything from what I work on (or don’t...) on a day-to-day basis, to substantial notes outlining my evolving thoughts on various design decisions and philosophies over the course of the process. I decided to record these as a means of both assuring my own integrity in the process, as well as being able to leave behind a meticulous record of development which can, regardless of the project’s eventual success (or lack thereof), be salvaged as a public asset for other prospective developers in the future. 
 
-Ultimately, beyond the ways in which this project may serve my personal ends, I intend for it to be released in as much of its entirety as possible as a public resource, as a detailed case study covering a dimension of game development that has seen little coverage, despite considerable interest. I have taken considerable care throughout the process of documentation to remind potential audiences that, regardless of the eventual reception of the project, it is not through my exact footsteps that I hope to serve as an example, but instead, through my commitment to a certain kind of honesty and transparency, both in the things that go well, and the things that don’t — and everything in between,
+Ultimately, beyond the ways in which this project may serve my personal ends, I intend for it to be released in as much of its entirety as possible as a public resource, as a detailed case study covering a dimension of game development that has seen little coverage, despite considerable interest. I have taken considerable care throughout the process of documentation to remind potential audiences that, regardless of the eventual reception of the project, it is not through my exact footsteps that I hope to serve as an example, but instead, through my commitment to a certain kind of honesty and transparency, both in the things that go well, and the things that don’t — and everything in between.
 
 ## Media
 
@@ -143,5 +143,5 @@ Sutemi Productions is an American video game developer based in the New York met
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 16 November 2021.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 17 December 2021.*
 
