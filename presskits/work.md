@@ -13,7 +13,7 @@
 * **Genre(s):** Exploration, survival, simulation, horror
 * **Engine:** GameMaker Studio 2
 * **Source code:** Will be made public shortly after release
-* **Links:** [itch.io](https://spncryn.itch.io/work), [Steam](https://store.steampowered.com/app/1207690/My_Work_Is_Not_Yet_Done/), GitHub (you're looking at it)
+* **Links:** [itch.io](https://spncryn.itch.io/work), [Steam](https://store.steampowered.com/app/1207690/My_Work_Is_Not_Yet_Done/), GitHub (TBA)
 * **Development log:** [Kickstarter](https://www.kickstarter.com/projects/spncryn/my-work-is-not-yet-done/updates)
 * **Price:** $20 USD (Steam), Pay what you can (itch.io)
 
@@ -143,5 +143,5 @@ Sutemi Productions is an American video game developer based in the New York met
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 17 December 2021.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 18 December 2021.*
 
