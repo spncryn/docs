@@ -28,7 +28,7 @@ It is part of an ongoing series of works within a larger shared universe dedicat
 ## What are some things you can do in this game?
 
 * Attempt to uncover the source of a strange and inscrutable radio transmission
-* Perform unreasonably-detail diagnostics and repairs upon a number of faithfully-reproduced environmental sensors and meters
+* Perform unreasonably-detailed diagnostics and repairs upon a number of faithfully-reproduced environmental sensors and meters
 * Contemplate lovely two-tone black-and-white wilderness
 * Encounter unspeakable, claustrophobic dread and horror in your pursuit of the transcendental
 * Trace the progress of water in mL through your digestive and excretory systems
