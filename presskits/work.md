@@ -68,6 +68,7 @@ All of this occurs at a certain distance between the subjects (Avery, the machin
 * The Long Dark
 * Welcome to the Game II 
 * A Hand With Many Fingers 
+* Pathologic 2
 * The Longing 
 * Neurocracy
 
@@ -84,20 +85,22 @@ My immediate goals with this project are:
 
 ### For audiences
 
-My high-level goal with this project is to create a work that would allow me the opportunity and space to experiment with, and iterate upon several fairly common assumptions about topics such as:
+My high-level goal with this project is to create a work that would allow me the opportunity and space to experiment with, and iterate upon various approachces to several fairly common and reoccurring topics in game development such as:
 
-* What are we really talking about when we talk about the “uniqueness” of “interactivity” for games as a medium?
+* What are we really talking about when we talk about the supposed “uniqueness” of “interactivity” for games as a medium?
 * What does “good” game design actually mean, in both theory and practice?
 * Can “good” game design productively target and cultivate unpleasant sensations?
-* What is a “bad” game? 
+* What is a “bad” game? What is a "bad game"?
 * What do we mean by a game’s “difficulty”?
 * What is the difference between accessibility, and difficulty?
-* Is the mechanical experience of a game necessarily a distinct aspect from the narrative experience?
-* Can games effectively portray seemingly antithetical experiences such as boredom, tedium, disorientation, and frustration without conceding the apparent advantage of their medium?
-* Is it more important to respect a player’s time, or their intelligence? Does there need to be a delineation between the two?
-* How does one effectively “market” — if at all — a work that demands a certain level of non-trivial participation, and deliberately seeks on some level to antagonise its audience’s sensibilities?
+* Is the mechanical experience of a game necessarily a distinct aspect from the narrative experience? How does the valence of this question change when shifting between modes of designing, playing, and critically evaluating a game?
+* Can games effectively work with seemingly "passive" experiences such as boredom, tedium, disorientation, and frustration without conceding the apparent advantage of their medium as one requiring "active" participation?
+* How does one maintain the illusion of individual player agency within a narrative with a single intended fixed outcome?
+* How does one effectively market a work that demands a certain level of non-trivial participation, and deliberately seeks on some level to antagonise its audience’s sensibilities?
 
-This is, of course, a rather limited selection from the list of questions I’ve been considering since the beginning of development, but I think they represent a pretty decent sampling regardless of the most salient issues I aim to address with this project. 
+This is, of course, a rather limited selection from th total list of questions in consideration, but I think they represent a pretty decent sampling of the most salient issues I aim to address with this project in particular. †
+
+† *I've edited the wording on this a bit since to better reflect my intentions. The initial wording, in retrospect, seemed to imply that I set about this project specifically in order to seek hard answers to these questions; when in reality, their function is much closer to something like a scaffold, around which I am continuously building, testing, and evaluating the various assumptions and limitations of my design philosophy, both in regards to this project individually, and at large. I've also reworded most of the questions to more appropriately and effectively reflect what I actually meant.*
 
 ### For my peers
 
@@ -143,5 +146,7 @@ Sutemi Productions is an American video game developer based in the New York met
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 18 December 2021.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 06 January 2022.*
+
+*This document, and its editing history, is hosted on [GitHub](https://github.com/spncryn/docs/blob/master/presskits/work.md).*
 
