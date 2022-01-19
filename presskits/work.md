@@ -21,7 +21,9 @@
 
 _My Work Is Not Yet Done_ is a narrative-driven investigative horror game, combining elements of the survival/simulation genres with a dense, nonlinear plot exploring the imbrication and dissolution of human identities/meanings within uncanny wilderness.
 
-_Work_ follows the final days of the inquisitor Avery, the last remaining survivor of a doomed excursionary mission into a remote and unaccountable stretch of old country. Tasked with tracking down the source of an inscrutable signal, she must navigate, survey and survive an eerie, ever-shifting landscape reclaimed by nature — and perhaps something stranger.
+_Work_ follows the final days of the inquisitor Avery, the last surviving member of a doomed scientific expedition into a remote and unaccountable stretch of sinking country. Tasked with tracking down the source of a strange transmission believed to have originated from somewhere within the region, she must navigate, survey and survive an eerie, ever-shifting landscape reclaimed by nature -- and perhaps something stranger.
+
+The game heavily revolves around a combination of open-ended investigative and analytical work, in tandem with a detailed simulation-lite approach to representing the character's embodied physical experience at the level of moment-to-moment minutiae. It's also about haunted radio signals, and catastrophic signal failures, and the encroaching emptiness of wilderness, and the paradox of an empty tomb. And lastly, of course (although hopefully not ironically), it's about unfinished -- and unfinishable -- work.
 
 It is part of an ongoing series of works within a larger shared universe dedicated to examining questions of theological and cosmic horror: issues such as faith, weakness, devotion and loneliness — and the concomitant suffering contingent to such experiences.
 
@@ -146,7 +148,7 @@ Sutemi Productions is an American video game developer based in the New York met
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 06 January 2022.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 19 January 2022.*
 
 *This document is hosted on [GitHub](https://github.com/spncryn/docs/blob/master/presskits/work.md).*
 
