@@ -2,6 +2,7 @@
 
 | TITLE                      | DATE | SUMMARY |
 |----------------------------|-------------|--------------------|
+| [This War of Mine: Friction, Frustration, and the Myth of the Eternal Battlefield in _Ghost Recon: Breakpoint_ ](https://heterotopias.itch.io/heterotopias-009) | 13 September 2022 | An exploration of the military eschatology of _Tom Clancy's Ghost Recon: Breakpoint_. |
 | [The Long, Long Dark: On suicide, survival games, and going on and on and on and on](https://spncryn.medium.com/the-long-long-dark-c9999179ceb6) | 04 May 2021 | An essay about suicide, masquerading as an essay about Hinterland Studio's _The Long Dark_, masquerading as an essay about survival games. |
 | [The Way of Nature: On *Ghost of Tsushima*, and the manufactured sublime](https://medium.com/@spncryn/the-way-of-nature-56509be6dd01) | 23 July 2020 | Examines the role of the natural landscape and sublime as cinematic subject in Sucker Punch's *Ghost of Tsushima*, and the cynicism of the game's focus on an aesthetics of consumption rather than contemplation. |
 | [An Assassin's Creed: An examination of violence as ideology across Ubisoft’s major franchises](https://medium.com/@spncryn/an-assassins-creed-1079002c9512) | 12 May 2020 | An examination of cylical and historical violence as a recurring ideology across several of Ubisoft's major franchises, including *Assassin's Creed*, *Tom Clancy's Rainbow Six Siege*, *Watch Dogs*, and *Tom Clancy's Splinter Cell*.  |
